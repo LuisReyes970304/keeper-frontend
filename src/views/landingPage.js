@@ -3,7 +3,7 @@ export const landingPage = `
     <header class="w-full bg-white/90 backdrop-blur-md border-b border-gray-100 sticky top-0 z-40">
       <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <div class="flex items-center gap-3">
-          <img src="src/assets/logo.png" alt="keepeR Logo" class="h-10 object-contain">
+          <img src="/logo.png" alt="keepeR Logo" class="h-10 object-contain">
           <span class="text-lg font-bold text-slate-900">keepeR</span>
         </div>
         
@@ -72,7 +72,7 @@ export const landingPage = `
       <!-- Imagen Mockup Celular -->
       <div class="relative flex justify-center lg:justify-end hero-image">
         <div class="absolute inset-0 bg-linear-to-tr from-orange-400/10 to-transparent rounded-full filter blur-3xl -z-10 max-w-lg mx-auto"></div>
-        <img src="/src/assets/hero.png" alt="keepeR App" class="w-[500%] max-w-none drop-shadow-2xl">
+        <img src="/hero.png" alt="keepeR App" class="w-[500%] max-w-none drop-shadow-2xl">
       </div>
     </main>
 
