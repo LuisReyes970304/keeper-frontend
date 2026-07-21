@@ -1,0 +1,1 @@
+[(1, 'Zona tranquila', True), (3, 'Apartamento', True), (2, 'casa', False)]
